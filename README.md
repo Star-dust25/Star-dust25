@@ -1,9 +1,9 @@
 <h3>GitHub Stats</h3>
 <p align="center">
 <a href="https://github.com/Star-dust25">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Star-dust25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Star-dust25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<img src="./icons/github-contribution-grid-snake.svg">
+<img height="150em" src="./icons/github-contribution-grid-snake.svg">
 </p>
 
 <br>
