@@ -1,8 +1,9 @@
 <div align="center">
   <h1>Hi! Welcome to my profile</h1>
-  <br>
+</div>
+<br>
 
-  <h3>Main Languages</h3>
+<h3>Main Languages</h3>
   <br>
   <img src="./icons/Java.svg" alt="Java" height="48" style="vertical-align: middle; margin-left: 4px;" />
   <img src="./icons/Golang.svg" alt="Go" height="48" style="vertical-align: middle; margin-left: 4px;" />
@@ -80,4 +81,3 @@
   <a href="https://www.linkedin.com/in/diego-alexander-garcia-espinoza/" target="_blank">
     <img src="./icons/linkedin-svgrepo-com.svg" alt="LinkedIn" height="48" style="vertical-align: middle; margin-left: 4px;" />
   </a>
-</div>
