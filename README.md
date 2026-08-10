@@ -1,6 +1,3 @@
-<div align="center">
-  <h1>Hi! Welcome to my profile</h1>
-</div>
 <br>
 
 <h3>Main Languages</h3>
