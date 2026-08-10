@@ -1,11 +1,10 @@
 <div align="center">
   <h1>Hi! Welcome to my profile</h1>
-  <p>I am a student of the carreer systems engineering and informatic.</p>
+  <p>I am a Systems Engineering and Informatics student.</p>
 
   <br>
 
   <h2>My Tech Stack</h2>
-  <p><i>A detailed breakdown of the tools, languages, and architectures I use to build software solutions.</i></p>
   <br>
 
   <table align="center" style="border: none;">
@@ -57,21 +56,32 @@
       <td align="center">
         <h3>Databases</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="SQL and NoSQL Databases" style="vertical-align: middle;" />
+        <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/MongoDB.svg" alt="MongoDB" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/MySQL-Dark.svg" alt="MySQL" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Cassandra-Dark.svg" alt="Cassandra" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Supabase-Dark.svg" alt="Supabase" height="48" style="vertical-align: middle; margin-left: 4px;" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <h3>Infrastructure, Cloud & DevOps</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx&theme=dark" alt="Infrastructure and Cloud" style="vertical-align: middle;" />
+        <img src="./icons/AWS-Dark.svg" alt="AWS" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Docker.svg" alt="Docker" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Kali-Dark.svg" alt="Kali" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Ubuntu-Dark.svg" alt="Ubuntu" height="48" style="vertical-align: middle; margin-left: 4px;" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <h3>Tools & Version Control</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse&theme=dark" alt="Tools and Version Control" style="vertical-align: middle;" />
+        <img src="./icons/Git.svg" alt="Git" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Github-Dark.svg" alt="GitHub" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Postman.svg" alt="Postman" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/VisualStudio-Dark.svg" alt="Visual Studio" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/VSCode-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" />
       </td>
     </tr>
   </table>
@@ -84,6 +94,6 @@
 
   <h2>Contact Me</h2>
   <a href="https://www.linkedin.com/in/diego-alexander-garcia-espinoza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="./icons/linkedin-svgrepo-com.svg" alt="LinkedIn" height="48" style="vertical-align: middle; margin-left: 4px;" />
   </a>
 </div>
