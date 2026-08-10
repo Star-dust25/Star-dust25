@@ -1,39 +1,44 @@
 <div align="center">
-  <h2>🛠️ Stack Tecnológico y Herramientas</h2>
-  <p><i>Tecnologías con las que trabajo y construyo soluciones</i></p>
+  <h2>🚀 Mi Stack Tecnológico</h2>
+  <p><i>Un desglose detallado de las herramientas, lenguajes y arquitecturas que utilizo para construir soluciones de software.</i></p>
   <br>
 
-  <!-- LENGUAJES -->
-  <h3>💻 Lenguajes</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css&theme=dark" alt="Lenguajes de Programación" />
-  </p>
-  <br>
-
-  <!-- FRONTEND -->
-  <h3>🎨 Frontend & UI</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=angular,react,bootstrap,tailwind,figma&theme=dark" alt="Frontend" />
-  </p>
-  <br>
-
-  <!-- BACKEND -->
-  <h3>⚙️ Backend & Frameworks</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django&theme=dark" alt="Backend" />
-  </p>
-  <br>
-
-  <!-- BASES DE DATOS SQL & NOSQL -->
-  <h3>🗄️ Bases de Datos</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Bases de Datos SQL y NoSQL" />
-  </p>
-  <br>
-
-  <!-- DEVOPS, NUBE & HERRAMIENTAS -->
-  <h3>☁️ Arquitectura, Nube & DevOps</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vscode&theme=dark" alt="DevOps y Nube" />
-  </p>
+  <table align="center" style="border: none;">
+    <tr>
+      <td align="center" width="50%">
+        <h3>💻 Lenguajes Principales</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp&theme=dark" alt="Lenguajes de Programación" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🎨 Frontend & Diseño UI/UX</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=angular,react,html,css,tailwind,figma&theme=dark" alt="Frontend" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>⚙️ Backend & Frameworks</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django&theme=dark" alt="Backend" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🗄️ Bases de Datos</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="Bases de Datos SQL y NoSQL" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>☁️ Infraestructura, Nube & DevOps</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx&theme=dark" alt="Infraestructura y Nube" />
+      </td>
+      <td align="center" width="50%">
+        <h3>🛠️ Herramientas & Versionado</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,eclipse&theme=dark" alt="Herramientas y Control de Versiones" />
+      </td>
+    </tr>
+  </table>
 </div>
