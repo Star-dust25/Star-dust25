@@ -1,10 +1,5 @@
 <div align="center">
   <h1>Hi! Welcome to my profile</h1>
-  <p>I am a Systems Engineering and Informatics student.</p>
-
-  <br>
-
-  <h2>My Tech Stack</h2>
   <br>
 
   <table align="center" style="border: none;">
@@ -80,8 +75,8 @@
         <img src="./icons/Git.svg" alt="Git" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/Github-Dark.svg" alt="GitHub" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/Postman.svg" alt="Postman" height="48" style="vertical-align: middle; margin-left: 4px;" />
-        <img src="./icons/VisualStudio-Dark.svg" alt="Visual Studio" height="48" style="vertical-align: middle; margin-left: 4px;" />
-        <img src="./icons/VSCode-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/VisualStudio-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/VScode-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" />
       </td>
     </tr>
   </table>
