@@ -31,6 +31,7 @@
         <img src="./icons/Typescript.svg" alt="TypeScript" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/Angular-Dark.svg" alt="Angular" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/React-Dark.svg" alt="React" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Vite-Dark.svg" alt="Vite" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/VueJS-Dark.svg" alt="VueJS" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/Astro.svg" alt="Astro" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/Bootstrap.svg" alt="Bootstrap" height="48" style="vertical-align: middle; margin-left: 4px;" />
@@ -44,7 +45,12 @@
       <td align="center">
         <h3> Backend & Frameworks</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django&theme=dark" alt="Backend" style="vertical-align: middle;" />
+        <img src="./icons/Spring-Dark.svg" alt="Spring" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/DotNet.svg" alt="DotNet" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/ExpressJS-Dark.svg" alt="ExpressJS" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/NestJS-Dark.svg" alt="NestJS" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/NextJS-Dark.svg" alt="NextJS" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/NodeJS-Dark.svg" alt="NodeJS" height="48" style="vertical-align: middle; margin-left: 4px;" />
       </td>
     </tr>
     <tr>
