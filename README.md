@@ -30,7 +30,7 @@
 
 <h3>Tools & Version Control</h3>
 <p>
-  <img src="./icons/Git.svg" alt="Git" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Github-Dark.svg" alt="GitHub" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Postman.svg" alt="Postman" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/VisualStudio-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/VScode-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" />
+  <img src="./icons/Git.svg" alt="Git" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Github-Dark.svg" alt="GitHub" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Postman.svg" alt="Postman" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/VisualStudio-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/VSCode-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" />
 </p>
 
 <br>
