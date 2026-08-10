@@ -10,6 +10,7 @@
         <br>
         <img src="./icons/typescript-custom.svg" alt="TypeScript Custom" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/java-custom.svg" alt="Java Custom" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/golang-custom.svg" alt="Golang Custom" height="48" style="vertical-align: middle; margin-left: 4px;" />
       </td>
       <td align="center" width="50%">
         <h3>Frontend & Diseño UI/UX</h3>
