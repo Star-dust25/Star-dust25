@@ -1,9 +1,6 @@
 <h3>GitHub Stats</h3>
 <p align="center">
-<a href="https://github.com/Star-dust25">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Star-dust25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-<img height="130em" src="./icons/github-contribution-grid-snake.svg">
+  <a href="https://github.com/Star-dust25"><img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Star-dust25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="vertical-align: middle;" /></a> <img height="130em" src="./icons/github-contribution-grid-snake.svg" style="vertical-align: middle; margin-left: 10px;" />
 </p>
 <br>
 <h3>Main Languages</h3>
