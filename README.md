@@ -5,9 +5,7 @@
 </a>
 <img height="130em" src="./icons/github-contribution-grid-snake.svg">
 </p>
-
 <br>
-
 <h3>Main Languages</h3>
 <p>
   <img src="./icons/Java.svg" alt="Java" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Golang.svg" alt="Go" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/CS.svg" alt="C#" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Haskell-Dark.svg" alt="Haskell" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Dart-Dark.svg" alt="Dart Dark" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Python-Dark.svg" alt="Python Dark" height="48" style="vertical-align: middle; margin-left: 4px;" />
@@ -42,3 +40,7 @@
 <a href="https://www.linkedin.com/in/diego-alexander-garcia-espinoza/" target="_blank">
   <img src="./icons/linkedin-svgrepo-com.svg" alt="LinkedIn" height="48" style="vertical-align: middle; margin-left: 4px;" />
 </a>
+
+<br>
+
+<img src = "./icons/linux-meme.jpg" width="700" style="vertical-align: middle; margin-left: 4px;" />
