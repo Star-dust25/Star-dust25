@@ -1,9 +1,9 @@
 <h3>GitHub Stats</h3>
 <p align="center">
 <a href="https://github.com/Star-dust25">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Star-dust25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Star-dust25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<img height="150em" src="./icons/github-contribution-grid-snake.svg">
+<img height="130em" src="./icons/github-contribution-grid-snake.svg">
 </p>
 
 <br>
@@ -37,12 +37,6 @@
 <p>
   <img src="./icons/Git.svg" alt="Git" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Github-Dark.svg" alt="GitHub" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/Postman.svg" alt="Postman" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/VisualStudio-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" /> <img src="./icons/VSCode-Dark.svg" alt="VSCode" height="48" style="vertical-align: middle; margin-left: 4px;" />
 </p>
-
-<br>
-
-<h2>GitHub Stats</h2>
-
-<br>
 
 <h2>Contact Me</h2>
 <a href="https://www.linkedin.com/in/diego-alexander-garcia-espinoza/" target="_blank">
