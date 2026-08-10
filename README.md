@@ -28,7 +28,7 @@
         <img src="./icons/HTML.svg" alt="HTML" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/CSS.svg" alt="CSS" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/JavaScript.svg" alt="JavaScript" height="48" style="vertical-align: middle; margin-left: 4px;" />
-        <img src="./icons/TypeScript.svg" alt="TypeScript" height="48" style="vertical-align: middle; margin-left: 4px;" />
+        <img src="./icons/Typescript.svg" alt="TypeScript" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/Angular-Dark.svg" alt="Angular" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/React-Dark.svg" alt="React" height="48" style="vertical-align: middle; margin-left: 4px;" />
         <img src="./icons/VueJS-Dark.svg" alt="VueJS" height="48" style="vertical-align: middle; margin-left: 4px;" />
