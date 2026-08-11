@@ -40,6 +40,3 @@
 </a>
 
 <br>
-<div align="center">
-<img src = "./icons/linux-meme.jpg" width="700" style="vertical-align: middle; margin-left: 4px;" />
-</div>
